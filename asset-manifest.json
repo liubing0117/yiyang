@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.48a6990f.css",
+    "main.js": "/static/js/main.d8143d9f.js",
+    "static/js/453.7a7d6b3d.chunk.js": "/static/js/453.7a7d6b3d.chunk.js",
+    "static/media/slides-img2.png": "/static/media/slides-img2.84f667e81ae723dc3a86.png",
+    "static/media/echange-icon.png": "/static/media/echange-icon.7e9f517ba13aad81488f.png",
+    "static/media/slides-img3.png": "/static/media/slides-img3.b27fa1e9f7bc9e90b4a1.png",
+    "static/media/slides-img1.png": "/static/media/slides-img1.5002b1abaaaf14ea4f6a.png",
+    "static/media/study-icon.png": "/static/media/study-icon.3c0665ccb94bd48531fe.png",
+    "static/media/health-icon.png": "/static/media/health-icon.4ec0b625654fafe21cdd.png",
+    "static/media/home-icon.png": "/static/media/home-icon.701596f88027ea10d841.png",
+    "static/media/logo.png": "/static/media/logo.bb4e09eb2b6f4289588c.png",
+    "static/media/business-img.jpg": "/static/media/business-img.7d78567eb941b59b5724.jpg",
+    "static/media/strategy-img.png": "/static/media/strategy-img.fe3b747f8dc3c1aacdc4.png",
+    "static/media/product-img3.png": "/static/media/product-img3.3a96fb5b0ec85509830c.png",
+    "static/media/product-img1.png": "/static/media/product-img1.b6b0d98726533ebc7e45.png",
+    "static/media/product-img2.png": "/static/media/product-img2.ed9098e098bbd963f771.png",
+    "index.html": "/index.html",
+    "main.48a6990f.css.map": "/static/css/main.48a6990f.css.map",
+    "main.d8143d9f.js.map": "/static/js/main.d8143d9f.js.map",
+    "453.7a7d6b3d.chunk.js.map": "/static/js/453.7a7d6b3d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48a6990f.css",
+    "static/js/main.d8143d9f.js"
+  ]
+}
